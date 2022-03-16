@@ -1,0 +1,12 @@
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.csproj.AssemblyReference.cache
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.csproj.SuggestedBindingRedirects.cache
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.Form1.resources
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.Properties.Resources.resources
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.csproj.GenerateResource.cache
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.csproj.CoreCompileInputs.cache
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\bin\Debug\Guillermo_Reina_1VS.exe.config
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\bin\Debug\Guillermo_Reina_1VS.exe
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\bin\Debug\Guillermo_Reina_1VS.pdb
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.exe
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.pdb
+C:\Users\02rei\Documents\Visual Studios\Guillermo_Reina_1VS\Guillermo_Reina_1VS\obj\Debug\Guillermo_Reina_1VS.Form2.resources
